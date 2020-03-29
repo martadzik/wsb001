@@ -10,9 +10,9 @@
   "keywords": [],
   "author": "MarcinDl <marcindl@hotmail.com> (http://www.softlab.mem)",
   "license": "ISC",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "express": "^4.17.1",
-
     "hbs": "^4.1.0"
   }
 }
